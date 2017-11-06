@@ -59,7 +59,7 @@
 
 .modal-body {
   position: relative !important;
-  padding: 0px 0px 0px 0px;
+  padding: 0;
 }
 
 .fade {
@@ -71,13 +71,12 @@
 
 .modal-content {
   border: none;
-  border-radius: 0px;
+  border-radius: 0;
   outline: 1px dotted black;
 }
 
 #myDate {
   font-family: inherit;
-  /* font-size: 0.92em; */
   font-size: 9pt;
   line-height: 1;
   text-align: right;
@@ -104,18 +103,7 @@
   line-height: 1.5;
   background-color: red;
   font-size: 19px;
-  padding: 0px 0px 0px 0px;
+  padding: 0;
   border-top: 1px dashed black;
   cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
