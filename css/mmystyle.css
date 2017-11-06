@@ -31,32 +31,35 @@
 .panel-heading {
   padding: 4px 15px;
   height: 38px;
-}
+ }
 
 .panel-body {
   padding: 0;
 }
 
-.cntbtn {
+.cntBtn {
   display: table-cell;
   cursor: pointer;
   vertical-align: middle;
   width: 250px;
   height: 100px;
 }
+.lBtn {
+  background-color: red;
+}
 
-.lbtn { background-color: red; }
+.rBtn {
+  background-color: green;
+}
 
-.rbtn { background-color: green; }
-
-#mymodalbox {
+#myModalBox {
   background-color: rgba(0, 0, 0, 0.75);
-  padding: 0 0 0 0 !important;
+  padding: 0 !important;
 }
 
 .modal-body {
   position: relative !important;
-  padding: 0 0 0 0;
+  padding: 0px 0px 0px 0px;
 }
 
 .fade {
@@ -68,11 +71,11 @@
 
 .modal-content {
   border: none;
-  border-radius: 0;
+  border-radius: 0px;
   outline: 1px dotted black;
 }
 
-#mydate {
+#myDate {
   font-family: inherit;
   /* font-size: 0.92em; */
   font-size: 9pt;
@@ -90,20 +93,18 @@
   margin-top: 125px;
 }
 
-@media (min-width: 760px) {
-  .modal-dialog {
+@media (min-width: 760px) { .modal-dialog {
     width: 900px;
     margin: 70px auto;
-  }
-}
+}}
 
-.submitbtn {
+.SubmitBtn {
   height: 40px;
   width: 100%;
   line-height: 1.5;
-  background-color: rgba(33, 55, 128, 0.29);
+  background-color: red;
   font-size: 19px;
-  padding: 0;
+  padding: 0px 0px 0px 0px;
   border-top: 1px dashed black;
   cursor: pointer;
 }
