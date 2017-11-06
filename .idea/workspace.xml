@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11073d08-fb53-4c8d-95b5-6fd8c3f0fa3d" name="Default" comment="add to git">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mmystyle.css" afterPath="$PROJECT_DIR$/css/mmystyle.css" />
-    </list>
+    <list default="true" id="11073d08-fb53-4c8d-95b5-6fd8c3f0fa3d" name="Default" comment="add to git" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +149,7 @@
       <updated>1509934077733</updated>
       <workItem from="1509934079200" duration="4288000" />
       <workItem from="1509941556870" duration="3494000" />
-      <workItem from="1509946545851" duration="857000" />
+      <workItem from="1509946545851" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1509936888720</created>
@@ -164,7 +162,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8639000" />
+    <option name="totallyTimeSpent" value="8651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-5" width="1366" height="773" extended-state="6" />
